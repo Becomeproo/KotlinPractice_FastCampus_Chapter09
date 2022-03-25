@@ -1,4 +1,4 @@
-# KotlinPractice_FastCampus_Chapter10 - 푸시 알림
+# KotlinPractice_FastCampus_Chapter09 - 푸시 알림
 ## 해당 챕터를 통해 배운 것
   * Cloud Messaging 사용
   * Notification 구현
